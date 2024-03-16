@@ -1,0 +1,7 @@
+Welcome to Assessment 5 Merge Commit
+
+Adding some lines here for testing
+
+Dog
+Cat
+Mouse
